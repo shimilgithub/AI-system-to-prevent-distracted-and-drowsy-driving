@@ -18,19 +18,22 @@ comprising over 88,500 labelled images depicting driver behaviours.
 
 ## Technologies Used:
 - Python
-- PIL (Pillow) - for image processing and manipulation.
-- OpenCV - for image handling and pre-processing.
-- TensorFlow & Keras - for building and training deep learning models.
-- NumPy - for numerical operations and array handling.
-- Matplotlib & Seaborn - for data visualization (plots, confusion matrix).
-- Scikit-learn - for evaluation metrics like confusion matrix and classification report
+- TensorFlow (Keras API): For deep learning model building, training, and optimization.
+- OpenCV (cv2): For advanced image processing tasks.
+- scikit-learn: For data splitting, cross-validation, and performance evaluation metrics.
+- Pandas: For managing and analyzing structured data efficiently.
+- NumPy: For numerical operations and efficient data handling.
+- Matplotlib: For creating plots and visualizing data insights.
+- Seaborn: For advanced statistical graphics and visually appealing plots.
+- tqdm: For progress bar tracking in iterative processes.
+
 
 
 ## Resources
 
 Here are the relevant links for the project:
 
-- **[Presentation Slides](Presentation_Slides.pptx)**: Slides used during the presentation summarizing the project work and key findings.
+- **[Presentation Slides](Presentation_Slides.pdf)**: Slides used during the presentation summarizing the project work and key findings.
 - **[Project Report](Project_Report.pdf)**: A detailed report describing the technical aspects of the project, the methods employed, and results obtained.
 
 ## Repository Structure
