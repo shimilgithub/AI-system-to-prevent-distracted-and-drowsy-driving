@@ -10,7 +10,7 @@ a holistic system that not only detects unsafe behaviours but also avoids accide
 alerts. The study describes the technologies, methodologies, and experimental results that demonstrate
 the system's efficacy in reducing road risks.
 
-Data was gathered from two major sources: the [nthuddd2 dataset](https://www.kaggle.com/datasets/banudeep/nthuddd2) with 66,500 images labelled for drowsiness and the [State Farm dataset](https://www.kaggle.com/competitions/state-farm-distracted-driverdetection/data) containing 22,000 images across 10 driver
+Data was gathered from two major sources: the [nthuddd2 dataset](https://www.kaggle.com/datasets/banudeep/nthuddd2) with 66,500 images labelled for drowsiness and the [State Farm dataset](https://www.kaggle.com/competitions/state-farm-distracted-driver-detection/data) containing 22,000 images across 10 driver
 behaviours. These datasets provided a comprehensive base for training and testing the
 model. Datasets include the nthuddd2 and State Farm Distracted Driver Detection datasets,
 comprising over 88,500 labelled images depicting driver behaviours.
